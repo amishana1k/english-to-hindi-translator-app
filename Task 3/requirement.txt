@@ -1,0 +1,10 @@
+Core Libraries:
+    -numpy: For numerical operations and handling arrays. [numpy==1.24.2]
+    -pandas: For handling and processing datasets. [pandas==2.0.3]
+Machine Learning:
+    -tensorflow: For building and training the sequence-to-sequence model. [tensorflow==2.13.0]
+    -scikit-learn: For dataset splitting (train_test_split). [scikit-learn==1.3.0]
+GUI:
+    -tkinter: For creating the graphical user interface.
+
+
